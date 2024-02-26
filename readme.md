@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://pdf-verse.vercel.app/">
-	  ![Brand](https://github.com/nimishsara12/PDF-WORLD/assets/84761132/027d211c-a91b-4eaa-9de0-167b3bda5b70)
+	  <img src="https://i.ibb.co/f4WtMxr/Brand.png" alt="Logo" width="260">
 
     
   </a>
