@@ -11,12 +11,9 @@
 PDF World offers a suite of free and user-friendly  PDF Editor tools to edit, convert and manipulate PDFs. <br /> Merge, split, compress, convert, rotate, unlock and watermark PDFs effortlessly.
 </p>
 </div>
-    <a href="https://pdf-verse.vercel.app/"><strong>View Demo »</strong></a>
+    <a href="https://pdf-world-seven.vercel.app/"><strong>View Demo »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/awesome-yasin/PDF-Verse/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/awesome-yasin/PDF-Verse/issues">Request Feature</a>
+   
   </p>
 </div>
 
@@ -33,7 +30,7 @@ PDF World offers a suite of free and user-friendly  PDF Editor tools to edit, co
 
 ## Introduction 
 
-PDF Verse is an intuitive, powerful and fully responsive web app that provides a range of tools for editing, converting, and manipulating PDF documents. Whether you need to merge multiple PDF files, add or remove pages, compress files, or extract text using OCR technology, PDF Verse has got you covered. With a user-friendly interface and a wide range of features, PDF Verse is designed to make working with PDFs as easy and efficient as possible. Our mission is to help individuals and businesses streamline their workflows, save time, and get more done with their PDF documents. Try PDF Verse today and see how it can simplify your PDF editing and conversion needs.
+PDF World is an intuitive, powerful and fully responsive web app that provides a range of tools for editing, converting, and manipulating PDF documents. Whether you need to merge multiple PDF files, add or remove pages, compress files, or extract text using OCR technology, PDF Verse has got you covered. With a user-friendly interface and a wide range of features, PDF Verse is designed to make working with PDFs as easy and efficient as possible. Our mission is to help individuals and businesses streamline their workflows, save time, and get more done with their PDF documents. Try PDF Verse today and see how it can simplify your PDF editing and conversion needs.
 
 > **_NOTE:_**  PDF Verse is still under production, I have completed only some features I am still working on it.
 
@@ -49,23 +46,23 @@ PDF Verse is an intuitive, powerful and fully responsive web app that provides a
   </thead>
   <tbody>
     <tr>
-      <td><a href = "https://pdf-verse.vercel.app/pdfeditor" target="_blank">Edit PDF</a></td>
+      <td><a href = "https://pdf-world-seven.vercel.app//pdfeditor" target="_blank">Edit PDF</a></td>
       <td>Modify text and images in a PDF file</td>
     </tr>
     <tr>
-	    <td><a href="https://pdf-verse.vercel.app" target="_blank">Merge PDF Files</a></td>
+	    <td><a href="https://pdf-world-seven.vercel.app" target="_blank">Merge PDF Files</a></td>
       <td>Combine multiple PDF files into a single document</td>
     </tr>
     <tr>
-	    <td><a href="https://pdf-verse.vercel.app/splitpdf" target="_blank">Split PDF Files</a></td>
+	    <td><a href="https://pdf-world-seven.vercel.app/splitpdf" target="_blank">Split PDF Files</a></td>
       <td>Divide a PDF document into smaller files</td>
     </tr>
     <tr>
-	    <td><a href="https://pdf-verse.vercel.app/watermark-pdf" target="_blank">Watermark PDF Pages</a></td>
+	    <td><a href="https://pdf-world-seven.vercel.app/watermark-pdf" target="_blank">Watermark PDF Pages</a></td>
       <td>Add text or an image to each page of a PDF file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/delete" target="_blank">Delete PDF Pages</td>
+      <td><a href="https://pdf-world-seven.vercel.app/delete" target="_blank">Delete PDF Pages</td>
       <td>Remove pages from a PDF document</td>
     </tr>
     <tr>
@@ -73,43 +70,43 @@ PDF Verse is an intuitive, powerful and fully responsive web app that provides a
       <td>Reduce the file size of a PDF document</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/rotate" target="_blank">Rotate PDF Files</td>
+      <td><a href="https://pdf-world-seven.vercel.app/rotate" target="_blank">Rotate PDF Files</td>
       <td>Change the orientation of a PDF document</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/add-page-number" target="_blank">Add Page Numbers</td>
+      <td><a href="https://pdf-world-seven.vercel.app/add-page-number" target="_blank">Add Page Numbers</td>
       <td>Insert page numbers into a PDF document</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-word" target="_blank">PDF To Word Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-word" target="_blank">PDF To Word Convert</td>
       <td>Convert a PDF document to a Word file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-excel" target="_blank">PDF To Excel Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-excel" target="_blank">PDF To Excel Convert</td>
       <td>Convert a PDF document to an Excel file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-ppt" target="_blank">PDF To PPT Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-ppt" target="_blank">PDF To PPT Convert</td>
       <td>Convert a PDF document to a PowerPoint presentation</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-jpg" target="_blank">PDF To JPG Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-jpg" target="_blank">PDF To JPG Convert</td>
       <td>Convert a PDF document to a JPEG image file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-png" target="_blank">PDF To PNG Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-png" target="_blank">PDF To PNG Convert</td>
       <td>Convert a PDF document to a PNG image file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-json" target="_blank">PDF to JSON Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-json" target="_blank">PDF to JSON Convert</td>
       <td>Convert a PDF document to an JSON file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-tiff" target="_blank">PDF To TIFF Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-tiff" target="_blank">PDF To TIFF Convert</td>
       <td>Convert a PDF document to a TIFF image file</td>
     </tr>
     <tr>
-      <td><a href="https://pdf-verse.vercel.app/pdf-to-txt" target="_blank">PDF To Text Convert</td>
+      <td><a href="https://pdf-world-seven.vercel.app/pdf-to-txt" target="_blank">PDF To Text Convert</td>
       <td>Convert a PDF document to a plain text file</td>
     </tr>
     <tr>
@@ -178,7 +175,7 @@ Our PDF merging tool was built with <a href="https://nodejs.org/en">Node.js</a>,
 ![Merge PDF](https://user-images.githubusercontent.com/85479838/232241467-1afffa06-2ca9-4101-a535-5ac66565f725.jpg)
 
 
-<a href="https://pdf-verse.vercel.app/"><strong>View Demo »</strong></a>
+<a href="https://pdf-world-seven.vercel.app/"><strong>View Demo »</strong></a>
 
 ## 2. Split PDF
 
@@ -186,7 +183,7 @@ Splitting and extracting PDF information into multiple files is a breeze with th
 
 ![Split PDF](https://user-images.githubusercontent.com/85479838/232244801-63c46030-b012-4563-bc54-62e100c93274.png)
 
-<a href="https://pdf-verse.vercel.app/splitpdf"><strong>View Demo »</strong></a>
+<a href="https://pdf-world-seven.vercel.app/splitpdf"><strong>View Demo »</strong></a>
 
 ## 3. Edit PDF
 
@@ -194,7 +191,7 @@ PDF Verse, PDF Editor is a powerful online tool that allows you to modify and cu
 
 ![Edit PDf](https://user-images.githubusercontent.com/85479838/232245435-e5536b9a-ff2f-482b-9d58-308fef3e1f48.png)
 
-<a href="https://pdf-verse.vercel.app/pdfeditor"><strong>View Demo »</strong></a>
+<a href="https://pdf-world-seven.vercel.app/pdfeditor"><strong>View Demo »</strong></a>
 
 ## 4. Add Watermark To PDF
 
@@ -202,7 +199,7 @@ Watermarking is an essential feature when it comes to protecting the authenticit
 
 ![watermark](https://user-images.githubusercontent.com/85479838/232281083-0b7f9b4e-cab5-4fec-9c20-d480b02e2e8c.png)
 
-<a href="https://pdf-verse.vercel.app/watermark-pdf"><strong>View Demo »</strong></a>
+<a href="https://pdf-world-seven.vercel.app/watermark-pdf"><strong>View Demo »</strong></a>
 
 ### More Tool in Production....
 
@@ -305,28 +302,19 @@ Contributions are what make the open source community such an amazing place to b
 
 If you have suggestions for adding or removing projects, feel free to open an issue to discuss it, or directly create a pull request with necessary changes.
 
-1. Fork it (`git clone https://github.com/awesome-yasin/PDF-Verse.git`)
+1. Fork it (`git clone https://github.com/nimishsara12/PDF-WORLD.git`)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-### Contributors
-
-<a href="https://github.com/awesome-yasin/PDF-Verse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=awesome-yasin/PDF-Verse" />
-</a>
 
 ## Contact info
 
 Feel free to contact me if you come through any error or want Guide of how to learn Full stack Development. You can also contact me if you want to Hire me for Your Project or organization.
 
-<a href ="mailto:yasinn7860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-<a href ="https://www.linkedin.com/in/md-yasin-ansari-92a935221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> <a href ="https://www.instagram.com/yasinn.0x/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-
-## Like my work? 💖
-
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️. It is the only motivation for me to code awesome internet tools and stuff. If you found PDF Verse helpful consider supporting me with a Follow.
+<a href ="mailto:nimishsarathe561@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href ="https://www.linkedin.com/in/nimish-sarathe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> <a href ="https://www.instagram.com/nimmi__official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
 ## License
 
