@@ -4,11 +4,11 @@
     <img src="https://i.ibb.co/5Fm3SVp/Your-paragraph-text-1.png" alt="Logo" width="260">
   </a>
 
-  <h3 align="center">PDF Verse: The Ultimate PDF Toolkit</h3>
+  <h3 align="center">PDF World: The Ultimate PDF Toolkit</h3>
 <div align="center">
 
   <p align="center">
-PDF Verse offers a suite of free and user-friendly  PDF Editor tools to edit, convert and manipulate PDFs. <br /> Merge, split, compress, convert, rotate, unlock and watermark PDFs effortlessly.
+PDF World offers a suite of free and user-friendly  PDF Editor tools to edit, convert and manipulate PDFs. <br /> Merge, split, compress, convert, rotate, unlock and watermark PDFs effortlessly.
 </p>
 </div>
     <a href="https://pdf-verse.vercel.app/"><strong>View Demo »</strong></a>
@@ -20,27 +20,6 @@ PDF Verse offers a suite of free and user-friendly  PDF Editor tools to edit, co
   </p>
 </div>
 
-## Project Status[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#project-status)
-<table class="no-border">
-<tr>
-    <td><img src="https://badgen.net/github/stars/awesome-yasin/PDF-Verse" alt="Total Stars"/></td>
-    <td><img src="https://badgen.net/github/forks/awesome-yasin/PDF-Verse" alt="Total Forks"/></td>
-    <td><img src="https://img.shields.io/github/search/awesome-yasin/PDF-Verse/download" alt="Download Count"/></td>
-	<td><img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fpdf-verse.vercel.app%2F" alt="Online status"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/tokei/lines/github/awesome-yasin/PDF-Verse" alt="total lines"/></td>
-    <td><img src="https://img.shields.io/github/languages/code-size/awesome-yasin/PDF-Verse?style=flat-square" alt="code size"/></td>
-    <td><img src="https://img.shields.io/github/repo-size/awesome-yasin/PDF-Verse" alt="repo size"/></td>
-        <td><img src="https://img.shields.io/github/languages/top/awesome-yasin/PDF-Verse" alt="top language"/></td>
-  </tr>
-  <tr>
-      <td><img src="https://img.shields.io/github/last-commit/awesome-yasin/PDF-Verse" alt="Last commit"/></td>
-    <td><img src="https://img.shields.io/github/issues/awesome-yasin/PDF-Verse" alt="total issues"/></td>
-    <td><img src="https://img.shields.io/github/issues-pr/awesome-yasin/PDF-Verse" alt="issues"/></td>
-  </tr>
-</table>
-<br />
 
 ## Technologies Used 🚀
 
