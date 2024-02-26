@@ -1,7 +1,9 @@
 <br />
 <div align="center">
   <a href="https://pdf-verse.vercel.app/">
-    <img src="https://i.ibb.co/5Fm3SVp/Your-paragraph-text-1.png" alt="Logo" width="260">
+	  ![Brand](https://github.com/nimishsara12/PDF-WORLD/assets/84761132/027d211c-a91b-4eaa-9de0-167b3bda5b70)
+
+    
   </a>
 
   <h3 align="center">PDF World: The Ultimate PDF Toolkit</h3>
