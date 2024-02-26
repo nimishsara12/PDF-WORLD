@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://pdf-verse.vercel.app/">
-    <img src="https://i.ibb.co/1QjLkgc/xyz.png" alt="Logo" width="260">
+    <img src="https://i.ibb.co/5Fm3SVp/Your-paragraph-text-1.png" alt="Logo" width="260">
   </a>
 
   <h3 align="center">PDF Verse: The Ultimate PDF Toolkit</h3>
